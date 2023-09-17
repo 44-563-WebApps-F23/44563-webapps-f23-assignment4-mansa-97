@@ -1,0 +1,41 @@
+.speech {
+    font-family:"Times New Roman", Times, serif;
+    font-size:20px;
+    color:black;
+
+}
+.direction {
+    font-style:'Courier New',Courier,monospace;
+    font-size:25px;
+    color:black;
+    background-color:lightcyan;
+
+}
+.direction:hover {
+    background-color:lavender;
+    color: grey;
+
+}
+.name {
+    font-style:italic;
+    font-size:medium;
+    color:crimson;
+}
+.NORA {
+    font-style: inherit;
+    font-size: medium;
+    color: blueviolet;
+
+}
+.HELMER {
+    font-style:oblique;
+    font-size: medium;
+    color: lightslategray;
+
+}
+.MAID {
+    font-style: inherit;
+    font-size: medium;
+    color: red;
+
+}
