@@ -16,11 +16,6 @@
     color: violet;
 
 }
-.name {
-    font-style:italic;
-    font-size:medium;
-    color:crimson;
-}
 .NORA {
     font-style: inherit;
     font-size: medium;
@@ -30,7 +25,7 @@
 .HELMER {
     font-style:oblique;
     font-size: medium;
-    color: lightslategray;
+    color: darkolivegreen;
 
 }
 .MAID {
