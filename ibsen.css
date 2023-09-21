@@ -9,22 +9,42 @@
     color:black;
     background-color:lightcyan;
 }
+.name {
+    font-style:Italic;
+    font-size:15px;
+    color:black;
+
+
+}
 .direction:hover {
     background-color:lavender;
     color: violet;
 }
 .NORA {
-    font-style: inherit;
-    font-size: medium;
     color: blueviolet;
 }
 .HELMER {
-    font-style:oblique;
-    font-size: medium;
     color: darkolivegreen;
 }
 .MAID {
-    font-style: inherit;
-    font-size: medium;
     color: red;
+}
+
+table,th,td{
+    border: 2px solid;
+    border-color:grey;
+    padding:10px;
+}
+th{
+    font-size: larger;
+    font-style: oblique;
+    font-variant-caps: all-petite-caps;
+}
+table{
+    width: 70%;
+    text-align:center;
+    margin: 5%;   
+}
+tr:nth-child(odd){
+    background-color: lightgreen;
 }
