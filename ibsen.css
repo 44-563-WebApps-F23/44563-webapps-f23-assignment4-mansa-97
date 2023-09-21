@@ -46,3 +46,18 @@ table{
 tr:nth-child(odd){
     background-color: lightgreen;
 }
+.NORA:hover {
+    border-style: dashed;
+    box-shadow: 10px 10px 7px yellowgreen;
+    filter:blur(0.7px);
+}
+.HELMER:hover {
+    text-shadow: 2px 2px 5px palevioletred;
+    border-style: dashed;
+}
+.MAID:hover {
+    border-style: dashed;
+    box-shadow: 10px 10px 7px pink;
+    filter:blur(0.7px);
+
+}
